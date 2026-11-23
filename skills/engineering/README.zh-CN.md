@@ -28,4 +28,5 @@
 - **[domain-modeling](./domain-modeling/SKILL.zh-CN.md)** — 主动构建并打磨项目的领域模型——挑战术语、用场景进行压力测试，并同步更新 `CONTEXT.md` 和 ADR。
 - **[codebase-design](./codebase-design/SKILL.zh-CN.md)** — 用于设计深模块的共享原则与词汇：小接口、清晰 seam，并可通过接口测试。
 - **[code-review](./code-review/SKILL.zh-CN.md)** — 从固定点开始对 diff 进行双轴审查：**标准（Standards）**检查是否遵循仓库编码标准及 Fowler 坏味道基线，**规格（Spec）**检查是否忠实实现原始 issue/PRD；两项审查由并行子代理运行。
+- **[wizard](./wizard/SKILL.zh-CN.md)** — 生成交互式 Bash 向导，引导用户完成配置、一次性迁移等手工流程，包括打开 URL、采集值、写入 `.env` 和 GitHub Actions secret。
 - **[resolving-merge-conflicts](./resolving-merge-conflicts/SKILL.zh-CN.md)** — 逐个 hunk 处理进行中的 git merge 或 rebase 冲突，通过追溯双方的一手来源，按照意图解决冲突，然后完成操作——绝不使用 `--abort`。

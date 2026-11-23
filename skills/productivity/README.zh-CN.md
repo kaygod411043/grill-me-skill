@@ -9,6 +9,7 @@
 - **[grill-me](./grill-me/SKILL.zh-CN.md)**：围绕计划或设计持续接受深入访谈，直到决策树的每个分支都得到解决。
 - **[handoff](./handoff/SKILL.zh-CN.md)**：将当前对话压缩为交接文档，供另一个代理继续工作。
 - **[teach](./teach/SKILL.zh-CN.md)**：通过多次会话向用户教授一项新技能或概念，并将当前目录作为有状态教学工作区。
+- **[to-questionnaire](./to-questionnaire/SKILL.zh-CN.md)** — 把需要他人参与的决策整理成 Markdown 问卷，根据接收人和所需反馈设计问题，供对方异步填写或在会议中共同完成。
 - **[writing-great-skills](./writing-great-skills/SKILL.zh-CN.md)**：关于如何编写和编辑优秀技能的参考资料，涵盖使技能行为可预测的词汇与原则。
 
 ## 模型调用型
